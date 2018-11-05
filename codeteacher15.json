@@ -1,0 +1,1112 @@
+{
+  "login": {
+    "zh": "登录",
+    "en": "Login",
+    "page": "登录注册"
+  },
+  "register": {
+    "zh": "注册",
+    "en": "Register",
+    "page": "登录注册"
+  },
+  "forgetPassword": {
+    "zh": "忘记密码",
+    "en": "Forget The Password",
+    "page": "登录注册"
+  },
+  "wxLogin": {
+    "zh": "微信登录",
+    "en": "WeChat Login",
+    "page": "登录注册"
+  },
+  "otherLogin": {
+    "zh": "其他登录方式",
+    "en": "Other Login",
+    "page": "登录注册"
+  },
+  "organizingData": {
+    "zh": "完善资料",
+    "en": "Organizing Data",
+    "page": "登录注册"
+  },
+  "name": {
+    "zh": "姓名",
+    "en": "Name",
+    "page": "完善资料,编辑课程"
+  },
+  "proCoachCard": {
+    "zh": "教练证",
+    "en": "Pro Coach Card",
+    "page": "完善资料"
+  },
+  "sex": {
+    "zh": "性别",
+    "en": "Sex",
+    "page": "完善资料"
+  },
+  "birthday": {
+    "zh": "生日",
+    "en": "Birthday",
+    "page": "完善资料"
+  },
+  "photo": {
+    "zh": "照片",
+    "en": "Photo",
+    "page": "完善资料"
+  },
+  "commit": {
+    "zh": "提交",
+    "en": "Commit",
+    "page": "完善资料"
+  },
+  "inputPhoneNumber": {
+    "zh": "输入手机号",
+    "en": "Input The Cell Phone Number",
+    "page": "登录注册"
+  },
+  "inputPassword": {
+    "zh": "输入密码",
+    "en": "Input Password",
+    "page": "登录注册"
+  },
+  "inputVerificationCode": {
+    "zh": "输入验证码",
+    "en": "Input Code",
+    "page": "登录注册"
+  },
+  "getVerificationCode": {
+    "zh": "获取验证码",
+    "en": "Get Code",
+    "page": "登录注册"
+  },
+  "inputPasswords": {
+    "zh": "输入字母和数字组合密码",
+    "en": "Input Numbers, Alphabet Passwords",
+    "page": "登录注册"
+  },
+  "createAccount": {
+    "zh": "创建账号",
+    "en": "Create An Account",
+    "page": "登录注册"
+  },
+  "height": {
+    "zh": "身高",
+    "en": "Height",
+    "page": "完善资料"
+  },
+  "weight": {
+    "zh": "体重",
+    "en": "Weight",
+    "page": "完善资料,学员,学员数据"
+  },
+  "cancel": {
+    "zh": "取消",
+    "en": "Cancel",
+    "page": "大部分页面"
+  },
+  "sure": {
+    "zh": "确定",
+    "en": "Sure",
+    "page": "大部分页面"
+  },
+  "male": {
+    "zh": "男",
+    "en": "Male",
+    "page": "完善资料"
+  },
+  "woman": {
+    "zh": "女",
+    "en": "Woman",
+    "page": "完善资料"
+  },
+  "update": {
+    "zh": "更新",
+    "en": "Update",
+    "page": "Android"
+  },
+  "newVersions": {
+    "zh": "发现新版本",
+    "en": "Discover new versions",
+    "page": "Android"
+  },
+  "cannotGetPermission": {
+    "zh": "无法获取权限",
+    "en": "Cannot Get Permission",
+    "page": "Android"
+  },
+  "gotIt": {
+    "zh": "知道了",
+    "en": "Got It",
+    "page": "Android"
+  },
+  "onceAgain": {
+    "zh": "再次获取",
+    "en": "Once Again",
+    "page": "Android"
+  },
+  "noPermissonTip": {
+    "zh": "当前应用缺少必要权限，该功能暂时无法使用。如若需要，请单击【确定】按钮前往设置中心进行权限授权。",
+    "en": "The current application lacks the necessary permissions and this feature is temporarily unavailable. If necessary, click the ok button to go to the Settings center for authorization.",
+    "page": "Android"
+  },
+  "deleteTip": {
+    "zh": "确定要删除吗？",
+    "en": "Are you sure you want to delete it ?",
+    "page": "Android、iOS"
+  },
+  "change": {
+    "zh": "中文",
+    "en": "English",
+    "page": "Android、iOS"
+  },
+  "getPicture": {
+    "zh": "获取图片",
+    "en": "Get Pictures",
+    "page": "iOS"
+  },
+  "takePicture": {
+    "zh": "拍照",
+    "en": "Take A Picture",
+    "page": "iOS"
+  },
+  "selectAlbum": {
+    "zh": "从相册选择",
+    "en": "Select from the album",
+    "page": "Android、iOS"
+  },
+  "preview": {
+    "zh": "预览",
+    "en": "Preview",
+    "page": "Android、iOS"
+  },
+  "delete": {
+    "zh": "删除",
+    "en": "Delete",
+    "page": "Android、iOS"
+  },
+  "country": {
+    "zh": "国家",
+    "en": "Country",
+    "page": "完善资料"
+  },
+  "educationRecord": {
+    "zh": "教育履历",
+    "en": "Education Record",
+    "page": "完善资料"
+  },
+  "achievementInfo": {
+    "zh": "成就信息",
+    "en": "Achievement Information",
+    "page": "完善资料"
+  },
+  "student": {
+    "zh": "学员",
+    "en": "Student",
+    "page": "学员,首页底部"
+  },
+  "age": {
+    "zh": "年龄",
+    "en": "age",
+    "page": "学员"
+  },
+  "studentDetails": {
+    "zh": "学员详情",
+    "en": "The Student Details",
+    "page": "学员详情"
+  },
+  "trainReport": {
+    "zh": "训练报告",
+    "en": "Training Report",
+    "page": "学员详情"
+  },
+  "physicalData": {
+    "zh": "身体数据测量",
+    "en": "Physical data measurement",
+    "page": "学员详情,训练数据汇总"
+  },
+  "phoneNum": {
+    "zh": "电话号码",
+    "en": "Phone Number",
+    "page": "学员详情"
+  },
+  "lastTime": {
+    "zh": "距离上次训练",
+    "en": "Last Time",
+    "page": "学员详情"
+  },
+  "buyTime": {
+    "zh": "购买时间",
+    "en": "Buy Time",
+    "page": "学员详情"
+  },
+  "finishedClass": {
+    "zh": "完成课时",
+    "en": "Finished Class",
+    "page": "学员详情"
+  },
+  "latelySubscribe": {
+    "zh": "最近预约",
+    "en": "Lately Subscribe",
+    "page": "学员详情"
+  },
+  "theTraining": {
+    "zh": "训练情况",
+    "en": "The Training",
+    "page": "学员详情"
+  },
+  "trained": {
+    "zh": "已训练",
+    "en": "Trained",
+    "page": "学员详情"
+  },
+  "Purchased": {
+    "zh": "已购买",
+    "en": "Purchased",
+    "page": "学员详情"
+  },
+  "edit": {
+    "zh": "编辑",
+    "en": "Edit",
+    "page": "学员详情"
+  },
+  "effectiveClass": {
+    "zh": "有效课时",
+    "en": "Effective Class",
+    "page": "学员详情"
+  },
+  "validDate": {
+    "zh": "有效日期",
+    "en": "Valid Date",
+    "page": "学员详情"
+  },
+  "goalAchievementManagement": {
+    "zh": "目标达成管理",
+    "en": "Goal Achievement Management",
+    "page": "学员详情"
+  },
+  "fatRate": {
+    "zh": "体脂率",
+    "en": "Body Fat Rate",
+    "page": "学员详情,训练数据汇总,学员数据,记录身体数据"
+  },
+  "addTheStudent": {
+    "zh": "添加学员",
+    "en": "Add The Student",
+    "page": "添加学员"
+  },
+  "search": {
+    "zh": "搜索",
+    "en": "Search",
+    "page": "添加学员"
+  },
+  "nameOrPhone": {
+    "zh": "姓名/手机号",
+    "en": "Name/Phone Number",
+    "page": "添加学员"
+  },
+  "summaryOfTrainingData": {
+    "zh": "训练数据汇总",
+    "en": "Summary Of Training Data",
+    "page": "训练数据汇总"
+  },
+  "fatFreeMass": {
+    "zh": "去脂体重",
+    "en": "Fat Free Mass",
+    "page": "训练数据汇总"
+  },
+  "bodyFat": {
+    "zh": "体脂",
+    "en": "Body Fat",
+    "page": "训练数据汇总"
+  },
+  "muscleWeight": {
+    "zh": "肌肉重量",
+    "en": "Muscle Weight",
+    "page": "训练数据汇总,学员数据,记录身体数据"
+  },
+  "skeletonMass": {
+    "zh": "骨骼重量",
+    "en": "skeletonMass",
+    "page": "训练数据汇总,学员数据,记录身体数据"
+  },
+  "bmr": {
+    "zh": "基础代谢率",
+    "en": "BMR",
+    "page": "训练数据汇总,学员数据,记录身体数据"
+  },
+  "metabolicAge": {
+    "zh": "新陈代谢年龄",
+    "en": "Metabolic Age",
+    "page": "训练数据汇总,学员数据,记录身体数据"
+  },
+  "targetSetting": {
+    "zh": "设定目标",
+    "en": "Target Setting",
+    "page": "训练数据汇总"
+  },
+  "action": {
+    "zh": "动作",
+    "en": "action",
+    "page": "训练数据汇总"
+  },
+  "actualTrainingData": {
+    "zh": "实际训练数据",
+    "en": "Actual Training Data",
+    "page": "训练数据汇总"
+  },
+  "muscleTrainingPhoto": {
+    "zh": "肌肉训练图",
+    "en": "Muscle Training Photo",
+    "page": "训练数据汇总"
+  },
+  "schedule": {
+    "zh": "日程安排",
+    "en": "Schedule",
+    "page": "日程安排"
+  },
+  "toBeConfirm": {
+    "zh": "待确认",
+    "en": "To Be Confirm",
+    "page": "日程安排"
+  },
+  "confirmed": {
+    "zh": "已确认",
+    "en": "Confirmed",
+    "page": "日程安排"
+  },
+  "clash": {
+    "zh": "冲突",
+    "en": "Clash",
+    "page": "日程安排"
+  },
+  "confirmReservation": {
+    "zh": "确认预约",
+    "en": "Reservation",
+    "page": "日程安排"
+  },
+  "adjustTime": {
+    "zh": "调整时间",
+    "en": "Adjust Time",
+    "page": "日程安排"
+  },
+  "cancelTheReservation": {
+    "zh": "取消预约",
+    "en": "Cancel Reservation",
+    "page": "日程安排"
+  },
+  "addTrainingSchedule": {
+    "zh": "添加训练日程",
+    "en": "Add training schedule",
+    "page": "添加训练日程"
+  },
+  "choiceItems": {
+    "zh": "选择项目",
+    "en": "Choice Items",
+    "page": "添加训练日程"
+  },
+  "choiceStudents": {
+    "zh": "选择学员",
+    "en": "Choice Students",
+    "page": "添加训练日程"
+  },
+  "choosable": {
+    "zh": "可选",
+    "en": "Choosable",
+    "page": "添加训练日程"
+  },
+  "theStudentData": {
+    "zh": "学员身体数据",
+    "en": "The Student Data",
+    "page": "学员数据"
+  },
+  "inputTime": {
+    "zh": "录入时间",
+    "en": "Input Time",
+    "page": "学员数据,记录身体数据"
+  },
+  "visceralFatLevel": {
+    "zh": "内脏脂肪级别",
+    "en": "Visceral Fat Level",
+    "page": "学员数据,记录身体数据"
+  },
+  "recordingBodyData": {
+    "zh": "记录身体数据",
+    "en": "Recording Body Data",
+    "page": "记录身体数据"
+  },
+  "date": {
+    "zh": "日期",
+    "en": "Date",
+    "page": "记录身体数据"
+  },
+  "save": {
+    "zh": "保存",
+    "en": "Save",
+    "page": "记录身体数据"
+  },
+  "course": {
+    "zh": "课程",
+    "en": "Course",
+    "page": "首页底部"
+  },
+  "validity": {
+    "zh": "有效期",
+    "en": "Validity",
+    "page": "首页底部"
+  },
+  "trainingPlan": {
+    "zh": "训练计划",
+    "en": "Training Plan",
+    "page": "训练计划"
+  },
+  "message": {
+    "zh": "消息",
+    "en": "Message",
+    "page": "消息"
+  },
+  "testGetCode": {
+    "zh": "获取验证码",
+    "en": "TestGetCode",
+    "page": "修改密码"
+  },
+  "securityCode": {
+    "zh": "填写验证码",
+    "en": "Security Code",
+    "page": "修改密码"
+  },
+  "pleaseEnterNewPassword": {
+    "zh": "请输入新密码",
+    "en": "Please Enter New Password",
+    "page": "修改密码"
+  },
+  "enterPasswordAgain": {
+    "zh": "请再次输入新密码",
+    "en": "Please Enter A New Password Again",
+    "page": "修改密码"
+  },
+  "confirm": {
+    "zh": "确认",
+    "en": "Confirm",
+    "page": "修改密码，添加日程，支付"
+  },
+  "modifiedPW": {
+    "zh": "修改密码",
+    "en": "Modified Password",
+    "page": "修改资料"
+  },
+  "proposals": {
+    "zh": "问题建议",
+    "en": "Advice",
+    "page": "个人中心,问题建议"
+  },
+  "submission": {
+    "zh": "提交问题",
+    "en": "Submission",
+    "page": "意见建议"
+  },
+  "aboutUs": {
+    "zh": "关于我们",
+    "en": "About Us",
+    "page": "个人中心，关于我们"
+  },
+  "editorialCourse": {
+    "zh": "编辑课程",
+    "en": "Edit Course",
+    "page": "编辑课程"
+  },
+  "uploadPhotos": {
+    "zh": "上传图片",
+    "en": "Upload Photos",
+    "page": "编辑课程"
+  },
+  "briefIntroduce": {
+    "zh": "简介",
+    "en": "Brief Introduction",
+    "page": "编辑课程"
+  },
+  "courseType": {
+    "zh": "课程类别",
+    "en": "Course Type",
+    "page": "编辑课程,训练课程"
+  },
+  "maxPeople": {
+    "zh": "最多人数",
+    "en": "Max Number Of People",
+    "page": "编辑课程"
+  },
+  "courseNumber": {
+    "zh": "节数",
+    "en": "Number of courses",
+    "page": "编辑课程"
+  },
+  "startTime": {
+    "zh": "开始时间",
+    "en": "Start Time",
+    "page": "编辑课程"
+  },
+  "endtime": {
+    "zh": "结束时间",
+    "en": "End Time",
+    "page": "编辑课程"
+  },
+  "trainCourse": {
+    "zh": "训练课程",
+    "en": "Training Course",
+    "page": "训练课程"
+  },
+  "personalTrainers": {
+    "zh": "私教",
+    "en": "Personal Trainers",
+    "page": "训练课程"
+  },
+  "openClass": {
+    "zh": "公开课",
+    "en": "Open class",
+    "page": "训练课程"
+  },
+  "class": {
+    "zh": "节",
+    "en": "Class",
+    "page": "训练课程"
+  },
+  "addSchoolInfo": {
+    "zh": "添加学校信息",
+    "en": "Add School info",
+    "page": "添加学校信息，教育学历"
+  },
+  "schoolName": {
+    "zh": "学校名称",
+    "en": "School Name",
+    "page": "添加学校信息"
+  },
+  "enrolmentTime": {
+    "zh": "选择入学时间",
+    "en": "Enrolment Time",
+    "page": "添加学校信息"
+  },
+  "educationBackground": {
+    "zh": "教育学历",
+    "en": "Educational background",
+    "page": "教育学历"
+  },
+  "editInfo": {
+    "zh": "编辑资料",
+    "en": "Edit",
+    "page": "个人中心"
+  },
+  "personalInfo": {
+    "zh": "个人资料",
+    "en": "Personal info",
+    "page": "个人资料"
+  },
+  "changeAvatar": {
+    "zh": "修改头像",
+    "en": "Change Avatar",
+    "page": "个人资料"
+  },
+  "contactNumber": {
+    "zh": "生日",
+    "en": "Cell-phone Number",
+    "page": "个人资料"
+  },
+  "EducationInfo": {
+    "zh": "教育信息",
+    "en": "Education Info",
+    "page": "个人资料"
+  },
+  "achievementInfos": {
+    "zh": "成就信息",
+    "en": "Achievement Info",
+    "page": "个人资料"
+  },
+  "accountInfo": {
+    "zh": "账户信息",
+    "en": "Account Info",
+    "page": "个人资料"
+  },
+  "setRestDays": {
+    "zh": "设置休息日",
+    "en": "Set Rest Days",
+    "page": "设置休息日"
+  },
+  "restTime": {
+    "zh": "休息时间",
+    "en": "Rest Time",
+    "page": "设置休息日"
+  },
+  "batchSetup": {
+    "zh": "批量设置",
+    "en": "Batch Setup",
+    "page": "设置休息日"
+  },
+  "endDate": {
+    "zh": "结束日期",
+    "en": "Ending Date",
+    "page": "设置休息日"
+  },
+  "When": {
+    "zh": "每逢",
+    "en": "When",
+    "page": "设置休息日"
+  },
+  "countDown": {
+    "zh": "计时",
+    "en": "Count down",
+    "page": "开始训练"
+  },
+  "reset": {
+    "zh": "复位",
+    "en": "Reset",
+    "page": "开始训练"
+  },
+  "suspend": {
+    "zh": "暂停",
+    "en": "Suspend",
+    "page": "开始训练"
+  },
+  "continue": {
+    "zh": "继续",
+    "en": "Continue",
+    "page": "开始训练"
+  },
+  "finish": {
+    "zh": "结束",
+    "en": "Finish",
+    "page": "开始训练"
+  },
+  "startTrain": {
+    "zh": "开始训练",
+    "en": "Start training",
+    "page": "开始训练"
+  },
+  "SetWeight": {
+    "zh": "设置重量和数量",
+    "en": "Set Weight And Quantity",
+    "page": "开始训练"
+  },
+  "number": {
+    "zh": "数量",
+    "en": "Number",
+    "page": "开始训练"
+  },
+  "minute": {
+    "zh": "分钟",
+    "en": "Minute",
+    "page": "开始训练"
+  },
+  "finishTrain": {
+    "zh": "结束训练",
+    "en": "Finish training",
+    "page": "开始训练"
+  },
+  "remarks": {
+    "zh": "备注",
+    "en": "Remarks",
+    "page": "开始训练"
+  },
+  "photograph": {
+    "zh": "拍照",
+    "en": "Photograph",
+    "page": "开始训练"
+  },
+  "editAction": {
+    "zh": "编辑动作",
+    "en": "Edit Action",
+    "page": "开始训练"
+  },
+  "mvc": {
+    "zh": "最大肌力",
+    "en": "MVC",
+    "page": "开始训练"
+  },
+  "planName": {
+    "zh": "填写计划",
+    "en": "Plan name",
+    "page": "填写计划"
+  },
+  "inputName": {
+    "zh": "输入计划名称",
+    "en": "Input The Plan Name",
+    "page": "填写计划名称"
+  },
+  "addPlanTime": {
+    "zh": "添加计划时间",
+    "en": "Add planned time",
+    "page": "填写计划名称"
+  },
+  "addAction": {
+    "zh": "添加动作",
+    "en": "Add Action",
+    "page": "添加动作"
+  },
+  "majorMuscleType": {
+    "zh": "主要肌肉类别",
+    "en": "Major Muscle Types",
+    "page": "添加动作"
+  },
+  "secondaryMuscleType": {
+    "zh": "次要肌肉类别",
+    "en": "Secondary Muscle Types",
+    "page": "添加动作"
+  },
+  "actionType": {
+    "zh": "动作类型",
+    "en": "Action Category",
+    "page": "添加动作"
+  },
+  "actionDescript": {
+    "zh": "动作描述",
+    "en": "Action Description",
+    "page": "添加动作"
+  },
+  "group": {
+    "zh": "组",
+    "en": "Group",
+    "page": "添加动作"
+  },
+  "areQuit": {
+    "zh": "确定要退出吗？",
+    "en": "Are you sure you want to sign out？",
+    "page": "个人中心"
+  },
+  "signOut": {
+    "zh": "退出",
+    "en": "Sign Out",
+    "page": "个人中心"
+  },
+  "openCourse": {
+    "zh": "开启课程预约",
+    "en": "Open Course Booking",
+    "page": "个人中心"
+  },
+  "personalCenter": {
+    "zh": "个人中心",
+    "en": "Mine",
+    "page": "首页底部"
+  },
+  "schedules": {
+    "zh": "日程",
+    "en": "Schedule",
+    "page": "首页底部"
+  },
+  "Sun": {
+    "zh": "周日",
+    "en": "Sun",
+    "page": "日历"
+  },
+  "Mon": {
+    "zh": "周一",
+    "en": "Mon",
+    "page": "日历"
+  },
+  "Tues": {
+    "zh": "周二",
+    "en": "Tues",
+    "page": "日历"
+  },
+  "Wed": {
+    "zh": "周三",
+    "en": "Wed",
+    "page": "日历"
+  },
+  "Thur": {
+    "zh": "周四",
+    "en": "Thur",
+    "page": "日历"
+  },
+  "Fri": {
+    "zh": "周五",
+    "en": "Fri",
+    "page": "日历"
+  },
+  "Sat": {
+    "zh": "周六",
+    "en": "Sat",
+    "page": "日历"
+  },
+  "v": {
+    "zh": "对",
+    "en": "V",
+    "page": "添加课程"
+  },
+  "学员身体数据": {
+    "zh": "学员数据",
+    "en": "The Student Data",
+    "page": "学员数据"
+  },
+  "bodyOfData": {
+    "zh": "身体数据",
+    "en": "Body Of Data",
+    "page": "学员身体数据"
+  },
+  "add": {
+    "zh": "添加",
+    "en": "Add",
+    "page": "学员身体数据"
+  },
+  "pleaseInput": {
+    "zh": "请输入",
+    "en": "Please Input",
+    "page": "android,ios"
+  },
+  "changeLanguage": {
+    "zh": "切换为英文",
+    "en": "Switch to Chinese",
+    "page": "个人中心"
+  },
+  "kg": {
+    "zh": "KG",
+    "en": "KG",
+    "page": "目标设置"
+  },
+  "noData": {
+    "zh": "暂无数据",
+    "en": "No Data",
+    "page": "图表"
+  },
+  "BMIData": {
+    "zh": "BMI数据",
+    "en": "BMI",
+    "page": "bMI数据"
+  },
+  "day": {
+    "zh": "日",
+    "en": "Day",
+    "page": "bMI数据"
+  },
+  "year": {
+    "zh": "年",
+    "en": "Year",
+    "page": "bMI数据"
+  },
+  "month": {
+    "zh": "月",
+    "en": "Month",
+    "page": "bMI数据"
+  },
+  "week": {
+    "zh": "周",
+    "en": "Week",
+    "page": "报告"
+  },
+  "average": {
+    "zh": "平均值",
+    "en": "Average",
+    "page": "BMI数据"
+  },
+  "weights": {
+    "zh": "重量",
+    "en": "Weight",
+    "page": "重量"
+  },
+  "designation": {
+    "zh": "名称",
+    "en": "Name",
+    "page": "添加动作"
+  },
+  "unit": {
+    "zh": "计量单位",
+    "en": "Unit Of Measurement",
+    "page": "添加动作"
+  },
+  "remarksOrPhotos": {
+    "zh": "备注/拍照",
+    "en": "Remarks/photos",
+    "page": "开始训练"
+  },
+  "courseNature": {
+    "zh": "课程性质",
+    "en": "Course Nature",
+    "page": "编辑课程,训练课程"
+  },
+  "addAchievement": {
+    "zh": "添加成就信息",
+    "en": "Add Achievement Info",
+    "page": "个人资料"
+  },
+  "timeAchievement": {
+    "zh": "选择时间",
+    "en": "Time to Achievement",
+    "page": "个人资料"
+  },
+  "free": {
+    "zh": "免费",
+    "en": "Free",
+    "page": "添加课程"
+  },
+  "pay": {
+    "zh": "付费",
+    "en": "Pay",
+    "page": "添加课程"
+  },
+  "tip": {
+    "zh": "确认要执行此操作吗?",
+    "en": "Are you sure you want to do this?",
+    "page": "android,ios"
+  },
+  "unreservations": {
+    "zh": "未预约",
+    "en": "Unreservations",
+    "page": "学员详情"
+  },
+  "reservations": {
+    "zh": "已预约",
+    "en": "Reservations",
+    "page": "学员详情"
+  },
+  "learnning": {
+    "zh": "已上课",
+    "en": "learnning",
+    "page": "学员详情"
+  },
+  "expired": {
+    "zh": "已失效",
+    "en": "expired",
+    "page": "学员详情"
+  },
+  "yourPhone": {
+    "zh": "您的绑定手机",
+    "en": "Your Phone",
+    "page": "修改密码"
+  },
+  "chooseClass": {
+    "zh": "选择课时",
+    "en": "Choose Class",
+    "page": "添加日程"
+  },
+  "messg": {
+    "zh": "消息",
+    "en": "Message",
+    "page": "消息"
+  },
+  "leaveMessage": {
+    "zh": "留言",
+    "en": "Leave A Message",
+    "page": "留言"
+  },
+  "publish": {
+    "zh": "发布",
+    "en": "Publish",
+    "page": "留言"
+  },
+  "settingDuration": {
+    "zh": "课时时长设置",
+    "en": "Duration setting",
+    "page": "编辑课程"
+  },
+  "next": {
+    "zh": "下一步",
+    "en": "Next",
+    "page": "添加训练计划"
+  },
+  "suspendAndContinue": {
+    "zh": "暂存并继续",
+    "en": "Suspend and continue",
+    "page": "添加训练计划"
+  },
+  "maxAge": {
+    "zh": "最大年龄",
+    "en": "Maximum age",
+    "page": "添加课程"
+  },
+  "minAge": {
+    "zh": "最小年龄",
+    "en": "Minimum age",
+    "page": "添加课程"
+  },
+  "usePlace": {
+    "zh": "使用地点",
+    "en": "Place of use",
+    "page": "添加课程"
+  },
+  "validityTerm": {
+    "zh": "有效期（年）",
+    "en": "Term of validity(years)",
+    "page": "添加课程"
+  },
+  "unitNumber": {
+    "zh": "计量数量",
+    "en": "Number of measurement",
+    "page": "添加动作"
+  },
+  "unitWeight": {
+    "zh": "重量单位",
+    "en": "unit of Weight",
+    "page": "添加动作"
+  },
+  "pauseContinue": {
+    "zh": "暂停并继续",
+    "en": "Pause and continue",
+    "page": "开始训练"
+  },
+  "joinVIP": {
+    "zh": "您还不是会员，请先购买会员服务",
+    "en": "You are not a VIP. Please purchase VIP service first.",
+    "page": "开始训练"
+  },
+  "buy": {
+    "zh": "购买服务",
+    "en": "purchase service",
+    "page": "我的"
+  },
+  "alipay": {
+    "zh": "支付宝支付",
+    "en": "alipay",
+    "page": "支付"
+  },
+  "wechat": {
+    "zh": "微信支付",
+    "en": "wechat",
+    "page": "支付"
+  },
+  "google": {
+    "zh": "谷歌支付",
+    "en": "google",
+    "page": "支付"
+  },
+  "paySuccess": {
+    "zh": "支付成功",
+    "en": "Payment Success",
+    "page": "支付"
+  },
+  "payFailed": {
+    "zh": "支付失败",
+    "en": "Payment Failed",
+    "page": "支付"
+  },
+  "addTrainingData": {
+    "zh": "添加训练数据",
+    "en": "Add training data",
+    "page": "开始训练"
+  },
+  "modifyTrainingData": {
+    "zh": "修改训练数据",
+    "en": "Modify training data",
+    "page": "开始训练"
+  },
+  "addTargetData": {
+    "zh": "添加目标数据",
+    "en": "Add target data",
+    "page": "开始训练"
+  },
+  "modifyTargetData": {
+    "zh": "修改目标数据",
+    "en": "Modify target data",
+    "page": "开始训练"
+  },
+  "selectCurrency": {
+    "zh": "选择币种",
+    "en": "Select the currency",
+    "page": "支付"
+  },
+  "rmb": {
+    "zh": "人民币",
+    "en": "RMB",
+    "page": "支付"
+  },
+  "usd": {
+    "zh": "美元",
+    "en": "USD",
+    "page": "支付"
+  }
+}

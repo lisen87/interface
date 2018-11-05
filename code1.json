@@ -1,0 +1,334 @@
+{
+  "age": {
+    "zh": "年龄",
+    "en": "age"
+  },
+  "editInfo": {
+    "zh": "编辑资料",
+    "en": "Edit Info"
+  },
+  "message": {
+    "zh": "消息",
+    "en": "Message"
+  },
+  "loading": {
+    "zh": "加载中...",
+    "en": "loading..."
+  },
+  "personalDataMeasurement": {
+    "zh": "个人数据测量",
+    "en": "Personal Data Measurement"
+  },
+  "aboutUs": {
+    "zh": "关于我们",
+    "en": "About Us"
+  },
+  "proposals": {
+    "zh": "问题建议",
+    "en": "Problems Or Proposals"
+  },
+  "changePassword": {
+    "zh": "修改密码",
+    "en": "Change Password"
+  },
+  "changeLanguage": {
+    "zh": "切换为英文",
+    "en": "Switch to Chinese"
+  },
+  "myCenter": {
+    "zh": "个人中心",
+    "en": "My Center"
+  },
+  "buyCourse": {
+    "zh": "购买课程",
+    "en": "buy the course"
+  },
+  "buyItNow": {
+    "zh": "立即购买",
+    "en": "Buy It Now"
+  },
+  "classCount": {
+    "zh": "节",
+    "en": "class"
+  },
+  "lesson": {
+    "zh": "课程",
+    "en": "lesson"
+  },
+  "haveBuyCourse": {
+    "zh": "已买课程",
+    "en": "Have Buy Course"
+  },
+  "buy": {
+    "zh": "购买",
+    "en": "Buy"
+  },
+  "calorie": {
+    "zh": "卡路里",
+    "en": "Calorie"
+  },
+  "consumeCalories": {
+    "zh": "消耗卡路里",
+    "en": "Consume Calories"
+  },
+  "purchaseDescription": {
+    "zh": "购买说明",
+    "en": "Purchase Description"
+  },
+  "buyTime": {
+    "zh": "购买时间",
+    "en": "Buy Time"
+  },
+  "validity": {
+    "zh": "有效期",
+    "en": "Validity"
+  },
+  "ageLimit": {
+    "zh": "年龄限制",
+    "en": "Age Limit"
+  },
+  "usingSite": {
+    "zh": "使用地点",
+    "en": "Using Site"
+  },
+  "schoolTime": {
+    "zh": "上课时间",
+    "en": "SchoolTime"
+  },
+  "CancelTheClass": {
+    "zh": "取消上课",
+    "en": "Cancel The Class"
+  },
+  "leaveANote": {
+    "zh": "留言",
+    "en": "Leave A Note"
+  },
+  "publish": {
+    "zh": "发布",
+    "en": "Publish"
+  },
+  "Score": {
+    "zh": "评分",
+    "en": "Score"
+  },
+  "grossScore": {
+    "zh": "总分数",
+    "en": "Gross Score"
+  },
+  "trainingLogBook": {
+    "zh": "训练日记",
+    "en": "Training Log Book"
+  },
+  "continuousTrainingTimes": {
+    "zh": "连续训练次数",
+    "en": "Continuous Training Times"
+  },
+  "trainingRecord": {
+    "zh": "训练最高记录",
+    "en": "Training Record"
+  },
+  "bodyFatPercentage": {
+    "zh": "体脂率",
+    "en": "Body Fat Percentage"
+  },
+  "share": {
+    "zh": "分享",
+    "en": "Share"
+  },
+  "edit": {
+    "zh": "编辑",
+    "en": "Edit"
+  },
+  "delete": {
+    "zh": "删除",
+    "en": "Delete"
+  },
+  "homePage": {
+    "zh": "首页",
+    "en": "Home Page"
+  },
+  "aggregateScheduling": {
+    "zh": "总进度",
+    "en": "Aggregate Scheduling"
+  },
+  "totalTime": {
+    "zh": "总时间",
+    "en": "Total Time"
+  },
+  "caloriesToday": {
+    "zh": "今日卡路里",
+    "en": "Calories Today"
+  },
+  "totalScore": {
+    "zh": "总评分",
+    "en": "Total Score"
+  },
+  "weeklyTrainingSchedule": {
+    "zh": "一周训练日程",
+    "en": "Weekly Training Schedule"
+  },
+  "trainingReport": {
+    "zh": "训练报告",
+    "en": "Training Report"
+  },
+  " trainingTime": {
+    "zh": "训练时间",
+    "en": "Training Time"
+  },
+  "trainingTime2": {
+    "zh": "训练总时长",
+    "en": "Training Time"
+  },
+  "trainingNumber": {
+    "zh": "训练次数",
+    "en": "Training Number,"
+  },
+  "minute": {
+    "zh": "分钟",
+    "en": "minute"
+  },
+  "compositeIndex": {
+    "zh": "综合指数",
+    "en": "Composite Index"
+  },
+  "chooseTheClassTime": {
+    "zh": "请选择上课时间",
+    "en": "Please choose the class time"
+  },
+  "sure": {
+    "zh": "确定",
+    "en": "Sure"
+  },
+  "cancel": {
+    "zh": "取消",
+    "en": "Cancel"
+  },
+  "reservations": {
+    "zh": "预约课程",
+    "en": "Reservations"
+  },
+  "contractedCourses": {
+    "zh": "已约课程",
+    "en": "Contracted courses"
+  },
+  "reservationNow": {
+    "zh": "立即预约",
+    "en": "reservation"
+  },
+  "numberParticipants": {
+    "zh": "参加人数",
+    "en": "Number of participants"
+  },
+  "finish": {
+    "zh": "结束",
+    "en": "Finish"
+  },
+  "waiting": {
+    "zh": "等待",
+    "en": "Waiting"
+  },
+  "essentialInformation": {
+    "zh": "基本信息",
+    "en": "Essential information"
+  },
+  "nickname": {
+    "zh": "昵称",
+    "en": "Nickname"
+  },
+  "birthday": {
+    "zh": "生日",
+    "en": "Birthday"
+  },
+  "sex": {
+    "zh": "性别",
+    "en": "Sex"
+  },
+  "diary": {
+    "zh": "日记",
+    "en": "Diary"
+  },
+  "trainingProgram": {
+    "zh": "训练项目",
+    "en": "Training Program"
+  },
+  "coach": {
+    "zh": "教练",
+    "en": "Coach"
+  },
+  "whatDoYouDoToday": {
+    "zh": "介绍一下今天做了哪些",
+    "en": "What do you do today?"
+  },
+  "personalInformation": {
+    "zh": "个人信息",
+    "en": "Personal information"
+  },
+  "height": {
+    "zh": "身高",
+    "en": "Height"
+  },
+  "weight": {
+    "zh": "体重",
+    "en": "Weight"
+  },
+  "defattedBodyWeight": {
+    "zh": "去脂体重",
+    "en": "Defatted Body Weight"
+  },
+  "bodyFat": {
+    "zh": "体脂",
+    "en": "Body Fat"
+  },
+  "muscleweight": {
+    "zh": "肌肉重量",
+    "en": "Muscle Weight"
+  },
+  "boneWeight": {
+    "zh": "骨骼重量",
+    "en": "Bone Weight"
+  },
+  "basalMetabolicRate": {
+    "zh": "基础代谢率",
+    "en": "Basal metabolic rate"
+  },
+  "metabolicAge": {
+    "zh": "新陈代谢年龄",
+    "en": "Metabolic age"
+  },
+  "save": {
+    "zh": "保存",
+    "en": "Save"
+  },
+  "mine": {
+    "zh": "我的",
+    "en": "Mine"
+  },
+  "train": {
+    "zh": "训练",
+    "en": "Train"
+  },
+  "thePhoneYouBindTo": {
+    "zh": "您绑定的手机",
+    "en": "The Phone You Bind To"
+  },
+  "testGetCode": {
+    "zh": "获取验证码",
+    "en": "TestGetCode"
+  },
+  "securityCode": {
+    "zh": "填写验证码",
+    "en": "Security Code"
+  },
+  "pleaseEnterNewPassword": {
+    "zh": "请输入新密码",
+    "en": "Please Enter New Password"
+  },
+  "enterPasswordAgain": {
+    "zh": "请输入再次新密码",
+    "en": "Please Enter A New Password Again"
+  },
+  "confirm": {
+    "zh": "确认",
+    "en": "Confirm"
+  }
+}

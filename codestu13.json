@@ -1,0 +1,747 @@
+{
+  "calendar": {
+    "zh": "日历",
+    "en": "Calendar",
+    "page": "首页底部，日历"
+  },
+  "training": {
+    "zh": "训练",
+    "en": "Training",
+    "page": "首页底部"
+  },
+  "mine": {
+    "zh": "我",
+    "en": "Mine",
+    "page": "首页底部"
+  },
+  "hadBeenTraining": {
+    "zh": "已训练",
+    "en": "Had Been Training",
+    "page": "日历"
+  },
+  "subscribe": {
+    "zh": "预约",
+    "en": "Subscribe",
+    "page": "日历"
+  },
+  "theDameDay": {
+    "zh": "当天",
+    "en": "The Same Day",
+    "page": "日历"
+  },
+  "subNow": {
+    "zh": "立即预约",
+    "en": "Appointment",
+    "page": "日历"
+  },
+  "theRemainingCourses": {
+    "zh": "剩余课程",
+    "en": "The remaining courses",
+    "page": "日历"
+  },
+  "schooltime": {
+    "zh": "上课时间",
+    "en": "schooltime",
+    "page": "日历"
+  },
+  "message": {
+    "zh": "留言",
+    "en": "Message",
+    "page": "日历"
+  },
+  "dropTheCourse": {
+    "zh": "取消课程",
+    "en": "drop the course",
+    "page": "日历"
+  },
+  "view": {
+    "zh": "查看",
+    "en": "View",
+    "page": "日历"
+  },
+  "theTrainingTime": {
+    "zh": "训练时长",
+    "en": "The Training Time",
+    "page": "日历"
+  },
+  "toJoinTheCourse": {
+    "zh": "加入课程",
+    "en": "To Join The Course",
+    "page": "课程详情"
+  },
+  "sure": {
+    "zh": "确定",
+    "en": "Sure",
+    "page": "Android、iOS"
+  },
+  "cancel": {
+    "zh": "取消",
+    "en": "Cancel",
+    "page": "Android、iOS"
+  },
+  "yes": {
+    "zh": "是",
+    "en": "Yes",
+    "page": "Android、iOS"
+  },
+  "no": {
+    "zh": "否",
+    "en": "No",
+    "page": "Android、iOS"
+  },
+  "delete": {
+    "zh": "删除",
+    "en": "Delete",
+    "page": "Android、iOS"
+  },
+  "finish": {
+    "zh": "结束",
+    "en": "Finish",
+    "page": ""
+  },
+  "waiting": {
+    "zh": "等待",
+    "en": "Waiting",
+    "page": ""
+  },
+  "essentialInformation": {
+    "zh": "基本信息",
+    "en": "Essential information",
+    "page": ""
+  },
+  "nickname": {
+    "zh": "昵称",
+    "en": "Nickname",
+    "page": "修改资料"
+  },
+  "birthday": {
+    "zh": "生日",
+    "en": "Birthday",
+    "page": "修改资料"
+  },
+  "sex": {
+    "zh": "性别",
+    "en": "Sex",
+    "page": "修改资料"
+  },
+  "changeLanguage": {
+    "zh": "切换为英文",
+    "en": "Switch to Chinese",
+    "page": "个人中心"
+  },
+  "height": {
+    "zh": "身高",
+    "en": "Height",
+    "page": ""
+  },
+  "weight": {
+    "zh": "体重",
+    "en": "Weight",
+    "page": "个人中心,目标设置,身体数据"
+  },
+  "testGetCode": {
+    "zh": "获取验证码",
+    "en": "TestGetCode",
+    "page": "修改密码"
+  },
+  "securityCode": {
+    "zh": "填写验证码",
+    "en": "Security Code",
+    "page": "修改密码"
+  },
+  "pleaseEnterNewPassword": {
+    "zh": "请输入新密码",
+    "en": "Please Enter New Password",
+    "page": "修改密码"
+  },
+  "enterPasswordAgain": {
+    "zh": "请再次输入新密码",
+    "en": "Please Enter A New Password Again",
+    "page": "修改密码"
+  },
+  "confirm": {
+    "zh": "确认",
+    "en": "Confirm",
+    "page": "修改密码"
+  },
+  "cannotGetPermission": {
+    "zh": "无法获取权限",
+    "en": "Cannot Get Permission",
+    "page": "Android"
+  },
+  "gotIt": {
+    "zh": "知道了",
+    "en": "Got It",
+    "page": "Android"
+  },
+  "onceAgain": {
+    "zh": "再次获取",
+    "en": "Once Again",
+    "page": "Android"
+  },
+  "noPermissonTip": {
+    "zh": "当前应用缺少必要权限，该功能暂时无法使用。如若需要，请单击【确定】按钮前往设置中心进行权限授权。",
+    "en": "The current application lacks the necessary permissions and this feature is temporarily unavailable. If necessary, click the ok button to go to the Settings center for authorization.",
+    "page": "Android"
+  },
+  "deleteTip": {
+    "zh": "确定要删除吗？",
+    "en": "Are you sure you want to delete it ?",
+    "page": "Android、iOS"
+  },
+  "cancelTip": {
+    "zh": "确定要取消吗？",
+    "en": "Are you sure you want to cancel it ?",
+    "page": "Android、iOS"
+  },
+  "subTip": {
+    "zh": "确定要预约吗？",
+    "en": "Are you sure you want to make an appointment ?",
+    "page": "Android、iOS"
+  },
+  "getPicture": {
+    "zh": "获取图片",
+    "en": "Get Pictures",
+    "page": "iOS"
+  },
+  "takePicture": {
+    "zh": "拍照",
+    "en": "Take A Picture",
+    "page": "iOS"
+  },
+  "selectAlbum": {
+    "zh": "从相册选择",
+    "en": "Select from the album",
+    "page": "Android、iOS"
+  },
+  "preview": {
+    "zh": "预览",
+    "en": "Preview",
+    "page": "Android、iOS"
+  },
+  "male": {
+    "zh": "男",
+    "en": "Male",
+    "page": "Android、iOS"
+  },
+  "woman": {
+    "zh": "女",
+    "en": "Woman",
+    "page": "Android、iOS"
+  },
+  "leaveMessage": {
+    "zh": "留言",
+    "en": "Leave A Message",
+    "page": "留言"
+  },
+  "publish": {
+    "zh": "发布",
+    "en": "Publish",
+    "page": "留言"
+  },
+  "predeterminedInstructions": {
+    "zh": "预定说明",
+    "en": "Predetermined Instructions",
+    "page": "课程详情"
+  },
+  "joinCourse": {
+    "zh": "加入课程",
+    "en": "Join The Course",
+    "page": "课程详情"
+  },
+  "totalNumberOfCourses": {
+    "zh": "总课程数",
+    "en": "Total Number Of Courses",
+    "page": "课程详情"
+  },
+  "predeterminedTime": {
+    "zh": "预定时间",
+    "en": "Predetermined Time",
+    "page": "课程详情"
+  },
+  "TermOfValidity": {
+    "zh": "有效期",
+    "en": "Term of validity",
+    "page": "课程详情"
+  },
+  "agePeriod": {
+    "zh": "年龄限制",
+    "en": "Age Period",
+    "page": "课程详情"
+  },
+  "useSite": {
+    "zh": "使用地点",
+    "en": "Use Site",
+    "page": "课程详情"
+  },
+  "classTime": {
+    "zh": "上课时间",
+    "en": "Class Time",
+    "page": "课程详情"
+  },
+  "CancelTheClass": {
+    "zh": "取消上课",
+    "en": "Cancel the class",
+    "page": "课程详情"
+  },
+  "Sun": {
+    "zh": "周日",
+    "en": "Sun",
+    "page": "日历"
+  },
+  "Mon": {
+    "zh": "周一",
+    "en": "Mon",
+    "page": "日历"
+  },
+  "Tues": {
+    "zh": "周二",
+    "en": "Tues",
+    "page": "日历"
+  },
+  "Wed": {
+    "zh": "周三",
+    "en": "Wed",
+    "page": "日历"
+  },
+  "Thur": {
+    "zh": "周四",
+    "en": "Thur",
+    "page": "日历"
+  },
+  "Fri": {
+    "zh": "周五",
+    "en": "Fri",
+    "page": "日历"
+  },
+  "Sat": {
+    "zh": "周六",
+    "en": "Sat",
+    "page": "日历"
+  },
+  "January": {
+    "zh": "一月",
+    "en": "January",
+    "page": "日历"
+  },
+  "February": {
+    "zh": "二月",
+    "en": "February",
+    "page": "日历"
+  },
+  "March": {
+    "zh": "三月",
+    "en": "March",
+    "page": "日历"
+  },
+  "April": {
+    "zh": "四月",
+    "en": "April",
+    "page": "日历"
+  },
+  "May": {
+    "zh": "五月",
+    "en": "May",
+    "page": "日历"
+  },
+  "June": {
+    "zh": "六月",
+    "en": "June",
+    "page": "日历"
+  },
+  "July": {
+    "zh": "七月",
+    "en": "July",
+    "page": "日历"
+  },
+  "August": {
+    "zh": "八月",
+    "en": "August",
+    "page": "日历"
+  },
+  "September": {
+    "zh": "九月",
+    "en": "September",
+    "page": "日历"
+  },
+  "October": {
+    "zh": "十月",
+    "en": "October",
+    "page": "日历"
+  },
+  "November": {
+    "zh": "十一月",
+    "en": "November",
+    "page": "日历"
+  },
+  "December": {
+    "zh": "十二月",
+    "en": "December",
+    "page": "日历"
+  },
+  "minutes": {
+    "zh": "分钟",
+    "en": "Minutes",
+    "page": "训练详情列表"
+  },
+  "trainingTime": {
+    "zh": "训练时长",
+    "en": "The Training Time",
+    "page": "训练详情列表"
+  },
+  "totalTime": {
+    "zh": "总时间",
+    "en": "Time",
+    "page": "训练，报告"
+  },
+  "totalWeight": {
+    "zh": "总重量",
+    "en": "Weight",
+    "page": "训练，报告"
+  },
+  "trainTimes": {
+    "zh": "训练次数",
+    "en": "Second",
+    "page": "训练，报告"
+  },
+  "remainCourse": {
+    "zh": "剩余课程",
+    "en": "remain",
+    "page": "训练"
+  },
+  "fatRate": {
+    "zh": "体脂率",
+    "en": "Body fat rate",
+    "page": "训练,目标设置"
+  },
+  "BMI": {
+    "zh": "BMI",
+    "en": "BMI",
+    "page": "训练"
+  },
+  "FFM": {
+    "zh": "FFM",
+    "en": "FFM",
+    "page": "训练"
+  },
+  "trainReport": {
+    "zh": "训练报告",
+    "en": "Training report",
+    "page": "训练"
+  },
+  "presentation": {
+    "zh": "报告",
+    "en": "Presentation",
+    "page": "报告"
+  },
+  "trainTime": {
+    "zh": "训练时间(分钟)",
+    "en": "time(min)",
+    "page": "报告"
+  },
+  "consumeKcal": {
+    "zh": "消耗卡路里",
+    "en": "Kcal",
+    "page": "报告"
+  },
+  "totalKcal": {
+    "zh": "总卡路里",
+    "en": "Total Kcal",
+    "page": "报告"
+  },
+  "shareFeel": {
+    "zh": "分享你的心得和体验吧",
+    "en": "Share Your Feelings And Experience",
+    "page": "报告"
+  },
+  "share": {
+    "zh": "分享",
+    "en": "Share",
+    "page": "报告"
+  },
+  "edit": {
+    "zh": "编辑",
+    "en": "Edit",
+    "page": "报告"
+  },
+  "editReport": {
+    "zh": "编辑报告",
+    "en": "Editorial Report",
+    "page": "编辑报告"
+  },
+  "save": {
+    "zh": "保存",
+    "en": "Save",
+    "page": "编辑报告"
+  },
+  "BMIData": {
+    "zh": "BMI数据",
+    "en": "BMI",
+    "page": "bMI数据"
+  },
+  "day": {
+    "zh": "日",
+    "en": "Day",
+    "page": "bMI数据"
+  },
+  "year": {
+    "zh": "年",
+    "en": "Year",
+    "page": "bMI数据"
+  },
+  "month": {
+    "zh": "月",
+    "en": "Month",
+    "page": "bMI数据"
+  },
+  "week": {
+    "zh": "周",
+    "en": "Week",
+    "page": "报告"
+  },
+  "uploadPhotos": {
+    "zh": "上传照片",
+    "en": "Upload Photos",
+    "page": "编辑报告"
+  },
+  "average": {
+    "zh": "平均值",
+    "en": "Average",
+    "page": "BMI数据"
+  },
+  "upWeight": {
+    "zh": "举起重量(千克)",
+    "en": "Weightlifting(KG)",
+    "page": "报告"
+  },
+  "weChat": {
+    "zh": "微信",
+    "en": "WeChat",
+    "page": "报告分享"
+  },
+  "wechatMoments": {
+    "zh": "微信朋友圈",
+    "en": "WechatMoments",
+    "page": "报告分享"
+  },
+  "facebook": {
+    "zh": "Facebook",
+    "en": "Facebook",
+    "page": "报告分享"
+  },
+  "noData": {
+    "zh": "暂无数据",
+    "en": "No Data",
+    "page": "图表"
+  },
+  "myCenter": {
+    "zh": "个人中心",
+    "en": "Personal Center",
+    "page": "个人中心"
+  },
+  "editInfo": {
+    "zh": "编辑资料",
+    "en": "Edit",
+    "page": "个人中心"
+  },
+  "target": {
+    "zh": "目标",
+    "en": "Target",
+    "page": "个人中心"
+  },
+  "myCourses": {
+    "zh": "我的课程",
+    "en": "MY Courses",
+    "page": "个人中心"
+  },
+  "messg": {
+    "zh": "消息",
+    "en": "Message",
+    "page": "个人中心"
+  },
+  "physicalData": {
+    "zh": "身体数据测量",
+    "en": "Physical data measurement",
+    "page": "个人中心"
+  },
+  "aboutUs": {
+    "zh": "关于我们",
+    "en": "About Us",
+    "page": "个人中心"
+  },
+  "proposals": {
+    "zh": "问题建议",
+    "en": "Advice",
+    "page": "个人中心,问题建议"
+  },
+  "age": {
+    "zh": "年龄",
+    "en": "Age",
+    "page": "个人中心"
+  },
+  "modifiedData": {
+    "zh": "修改资料",
+    "en": "Modified Data",
+    "page": "修改资料"
+  },
+  "modifiedPW": {
+    "zh": "修改密码",
+    "en": "Modified Password",
+    "page": "修改资料"
+  },
+  "yourPhone": {
+    "zh": "您的绑定手机",
+    "en": "Your Phone",
+    "page": "修改密码"
+  },
+  "targetSetting": {
+    "zh": "目标设置",
+    "en": "Target Setting",
+    "page": "目标设置"
+  },
+  "kg": {
+    "zh": "KG",
+    "en": "KG",
+    "page": "目标设置"
+  },
+  "bodyOfData": {
+    "zh": "身体数据",
+    "en": "Body Of Data",
+    "page": "身体数据"
+  },
+  "inputTime": {
+    "zh": "录入时间",
+    "en": "Input Time",
+    "page": "身体数据"
+  },
+  "date": {
+    "zh": "日期",
+    "en": "Date",
+    "page": "身体数据"
+  },
+  "add": {
+    "zh": "添加",
+    "en": "Add",
+    "page": "身体数据"
+  },
+  "muscleWeight": {
+    "zh": "肌肉重量",
+    "en": "Muscle Weight",
+    "page": "身体数据"
+  },
+  "bmr": {
+    "zh": "基础代谢率",
+    "en": "BMR",
+    "page": "身体数据"
+  },
+  "metabolicAge": {
+    "zh": "新陈代谢年龄",
+    "en": "Metabolic Age",
+    "page": "身体数据"
+  },
+  "visceralFatLevel": {
+    "zh": "内脏脂肪级别",
+    "en": "Visceral Fat Level",
+    "page": "身体数据"
+  },
+  "addCourse": {
+    "zh": "添加课程",
+    "en": "Add Course",
+    "page": "添加课程,我的课程"
+  },
+  "v": {
+    "zh": "对",
+    "en": "V",
+    "page": "添加课程"
+  },
+  "class": {
+    "zh": "节",
+    "en": "Class",
+    "page": "添加课程"
+  },
+  "submission": {
+    "zh": "提交问题",
+    "en": "Submission",
+    "page": "意见建议"
+  },
+  "pleaseInput": {
+    "zh": "请输入",
+    "en": "Please Input",
+    "page": "android,ios"
+  },
+  "details": {
+    "zh": "详情",
+    "en": "Details",
+    "page": "android,ios"
+  },
+  "login": {
+    "zh": "登录",
+    "en": "Login",
+    "page": "登录注册"
+  },
+  "register": {
+    "zh": "注册",
+    "en": "Register",
+    "page": "登录注册"
+  },
+  "forgetPassword": {
+    "zh": "忘记密码",
+    "en": "Forget The Password",
+    "page": "登录注册"
+  },
+  "wxLogin": {
+    "zh": "微信登录",
+    "en": "WeChat Login",
+    "page": "登录注册"
+  },
+  "otherLogin": {
+    "zh": "其他登录方式",
+    "en": "Other Login",
+    "page": "登录注册"
+  },
+  "inputPhoneNumber": {
+    "zh": "输入手机号",
+    "en": "Input The Cell Phone Number",
+    "page": "登录注册"
+  },
+  "inputPassword": {
+    "zh": "输入密码",
+    "en": "Input Password",
+    "page": "登录注册"
+  },
+  "inputVerificationCode": {
+    "zh": "输入验证码",
+    "en": "Input Code",
+    "page": "登录注册"
+  },
+  "getVerificationCode": {
+    "zh": "获取验证码",
+    "en": "Get Code",
+    "page": "登录注册"
+  },
+  "inputPasswords": {
+    "zh": "输入字母和数字组合密码",
+    "en": "Input Numbers, Alphabet Passwords",
+    "page": "登录注册"
+  },
+  "createAccount": {
+    "zh": "创建账号",
+    "en": "Create An Account",
+    "page": "登录注册"
+  },
+  "trainingSteps": {
+    "zh": "训练步骤",
+    "en": "Training Steps",
+    "page": "训练步骤"
+  },
+  "signOut": {
+    "zh": "退出",
+    "en": "Sign Out",
+    "page": "个人中心"
+  },
+  "areQuit": {
+    "zh": "确定要退出吗？",
+    "en": "Are you sure you want to sign out？",
+    "page": "个人中心"
+  }
+}
