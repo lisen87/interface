@@ -25,6 +25,6 @@
 11：抢到的朋友可在群里发一下通知。
 
 ....
-![](https://github.com/lisen87/IOSDialog/blob/master/screenshots/Screenshot_1508314733.png)
+
 
 
