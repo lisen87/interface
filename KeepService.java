@@ -9,7 +9,7 @@ import android.os.IBinder;
 
 /**
  * Created by lisen on 2018-10-27.
- *
+ *  提高优先级，前台服务并取消通知栏显示
  * @author lisen < 453354858@qq.com >
  */
 
