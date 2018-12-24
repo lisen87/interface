@@ -164,6 +164,16 @@
     "en": "Confirm",
     "page": "修改密码"
   },
+ "update": {
+    "zh": "更新",
+    "en": "Update",
+    "page": "Android"
+  },
+  "newVersions": {
+    "zh": "发现新版本",
+    "en": "Discover new versions",
+    "page": "Android"
+  },
   "cannotGetPermission": {
     "zh": "无法获取权限",
     "en": "Cannot Get Permission",
