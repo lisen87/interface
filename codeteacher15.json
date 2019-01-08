@@ -239,6 +239,11 @@
     "en": "Bought Time",
     "page": "学员详情"
   },
+  "days": {
+    "zh": "天",
+    "en": "days",
+    "page": "学员详情"
+  },
   "finishedClass": {
     "zh": "完成课时",
     "en": "Finished Class",
