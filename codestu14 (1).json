@@ -753,5 +753,10 @@
     "zh": "确定要退出吗？",
     "en": "Are you sure you want to sign out？",
     "page": "个人中心"
+  },
+  "secrecy": {
+    "zh": "保密",
+    "en": "secrecy",
+    "page": "性别"
   }
 }
